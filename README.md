@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/lucacarissimo/PipelineJava/_apis/build/status/LucaCarissimo.pipelines-java?branchName=master)](https://dev.azure.com/lucacarissimo/PipelineJava/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
